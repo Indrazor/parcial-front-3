@@ -4,9 +4,8 @@ const Card = ({ nombre, apellido, edad }) => {
       <h2>Información del usuario</h2>
       <p>Nombre: {nombre}</p>
       <p>Apellido: {apellido}</p>
-      <p>Edad al año 2024: {edad}</p>
-    </div>
-  );
-};
+      <p>Edad al año 20</p>
+</div> )
+}
 
 export default Card;
